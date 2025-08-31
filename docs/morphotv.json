@@ -538,11 +538,30 @@
       "name": "影视工厂",
       "api": "https://cj.lziapi.com",
       "isCustom": true
+    },
+    {
+      "key": "custom_1756622988589",
+      "name": "极速资源",
+      "api": "https://jszyapi.com",
+      "isCustom": true
     }
   ],
   "ai_api_key": "",
   "m3u8ProxyList": [],
   "ai_api_url": "",
+  "playHistory": [
+    {
+      "vodId": "24285",
+      "title": "按摩房的女大学生",
+      "pic": "https://img.jisuimage.com/cover/f1b824c353b9b2bb1327e0e72a05b6b9.jpg",
+      "episode": "正片",
+      "timestamp": 1756622650258,
+      "source": "jisu",
+      "sortOrder": "asc",
+      "skipStart": 0,
+      "skipEnd": 0
+    }
+  ],
   "ANALYTICS_SCRIPT": "<script defer src=\"https://umi.itx7.top/script.js\" data-website-id=\"5896e4dd-8216-4ff1-8a44-257a08af3582\"></script>",
   "searchHistory": [],
   "immersiveTranslatePerformanceData": {
@@ -553,6 +572,12 @@
     "parseParagraph": 37,
     "translated": 2969,
     "inserted": 180728
+  },
+  "vite-ui-theme": "dark",
+  "artplayer_settings": {
+    "times": {
+      "morphotv-24285-jisu-正片": 8.703387
+    }
   },
   "onlineParserList": [
     {
@@ -580,13 +605,12 @@
       "url": "http://jx.m3u8.tv/jiexi/?url={url}"
     }
   ],
-  "vite-ui-theme": "dark",
   "selectedApiSites": [
     "wolong",
-    "jisu",
     "custom_1756614768728",
     "custom_1756615051875",
     "custom_1756615161448",
+    "custom_1756615330033",
     "custom_1756616383897",
     "custom_1756616408788",
     "custom_1756616431865",
@@ -605,14 +629,11 @@
     "custom_1756617156585",
     "custom_1756617195846",
     "custom_1756617237418",
-    "custom_1756617303943",
     "custom_1756617263519",
-    "custom_1756617319210",
     "custom_1756617275754",
-    "custom_1756616521337",
-    "custom_1756617249717",
-    "custom_1756617335235",
-    "custom_1756617347815",
+    "custom_1756617288253",
+    "custom_1756617303943",
+    "custom_1756617319210",
     "custom_1756617379251",
     "custom_1756617392654",
     "custom_1756617409631",
@@ -621,8 +642,12 @@
     "custom_1756617512907",
     "custom_1756617532890",
     "custom_1756617548027",
-    "custom_1756617288253",
+    "custom_1756617563214",
     "custom_1756617598553",
+    "custom_1756617249717",
+    "custom_1756617335235",
+    "custom_1756616521337",
+    "custom_1756617347815",
     "custom_1756617643554",
     "custom_1756617660437",
     "custom_1756617697367",
@@ -633,17 +658,16 @@
     "custom_1756617844242",
     "custom_1756617970010",
     "custom_1756618117642",
-    "custom_1756617994085",
     "custom_1756618246213",
     "custom_1756618432573",
-    "custom_1756618164292",
+    "custom_1756622988589",
+    "custom_1756617994085",
     "custom_1756617880015",
+    "custom_1756618164292",
     "custom_1756617893102",
     "custom_1756618360637",
     "custom_1756618467053",
     "custom_1756616351202",
-    "custom_1756617020465",
-    "custom_1756617563214",
-    "custom_1756615330033"
+    "custom_1756617020465"
   ]
 }
